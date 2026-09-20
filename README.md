@@ -29,4 +29,4 @@ I am building my career around **Python, SQL, Data Analytics and Machine Learnin
 Looking for opportunities in **Data Analytics, Data Science and Machine Learning**.
 
 📫 Connect with me
-[LinkedIn]((hwww.linkedin.com/in/akash-caim1898))
+[LinkedIn](https://www.linkedin.com/in/akash-caim1898/)
