@@ -1,16 +1,32 @@
-## Hi there 👋
+ Hi, I'm Akash 👋
 
-<!--
-**akashcaim/akashcaim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Tech | Aspiring Data Analyst & Data Scientist
 
-Here are some ideas to get you started:
+I am building my career around **Python, SQL, Data Analytics and Machine Learning**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills
+- Python
+- SQL / MySQL
+- Pandas & NumPy
+- Scikit-learn
+- TensorFlow / Keras
+- Data Visualization
+- Machine Learning
+- Statistics
+
+🚀 Featured Projects
+- 🛒 E-Commerce Sales Analytics — SQL + Python
+- 🧠 Machine Learning Projects
+- 📊 Data Analysis & Visualization
+
+📚 Currently Learning
+- Advanced SQL
+- Data Analytics
+- Machine Learning
+- Building real-world projects
+
+ 🎯 Career Goal
+Looking for opportunities in **Data Analytics, Data Science and Machine Learning**.
+
+📫 Connect with me
+[LinkedIn]((hwww.linkedin.com/in/akash-caim1898))
